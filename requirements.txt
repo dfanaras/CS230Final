@@ -1,0 +1,5 @@
+pandas == 1.5.1
+pip == 19.2.3
+mathplotlib == 3.6.2
+numpy == 1.24.0
+streamlit == 1.15.2
